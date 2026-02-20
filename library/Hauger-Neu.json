@@ -1,0 +1,12 @@
+{
+    "author": {
+        "firstName": "Andreas",
+        "lastName": "Hauger"
+    },
+    "title": "Neues Buch",
+    "publicationYear": 2026,
+    "hardcover": true,
+    "Special Edition": true,
+    "keywords": ["Neu", "Buch", "404notfound", "null", "NoValue"],
+    "isbn": null
+}
