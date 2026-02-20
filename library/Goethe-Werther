@@ -1,0 +1,12 @@
+{
+    "author": {
+        "firstName": "Johann",
+        "secondName": "Wolfgang",
+        "lastName": "von Goethe"
+    },
+    "title": "Die Leiden des jungen Werther",
+    "publicationYear": 1774,
+    "hardcover": false,
+    "keywords": ["Eifersucht", "Liebe", "Suizid"],
+    "isbn": null,
+}
